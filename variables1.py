@@ -1,0 +1,2 @@
+x = "kingsley"
+print(x)
